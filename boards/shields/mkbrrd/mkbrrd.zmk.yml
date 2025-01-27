@@ -1,0 +1,8 @@
+file_format: "1"
+id: mkbrrd
+name: MKBRRD Core Keyboard
+type: shield
+url: https://github.com/miketronic/mkbrrd
+requires: [pro_micro]
+features:
+  - keys
