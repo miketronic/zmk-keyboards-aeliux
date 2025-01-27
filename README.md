@@ -1,2 +1,2 @@
-# zmk-keyboards-mkbrrd
-MKBRRD Core ZMK Module
+# zmk-keyboards-aeliux
+Aeliux ZMK Module
