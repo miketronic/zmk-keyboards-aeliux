@@ -1,9 +1,9 @@
 # Copyright (c) 2025 The ZMK Contributors
 # SPDX-License-Identifier: MIT
 
-if SHIELD_MKBRRD
+if SHIELD_AELIUX
   
 config ZMK_KEYBOARD_NAME
-    default "MKBRRD Core Keyboard"
+    default "Aeliux"
 
 endif
